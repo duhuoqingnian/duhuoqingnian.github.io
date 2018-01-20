@@ -21,38 +21,9 @@
       <file leaf-file-name="mistyle.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mistyle.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="526" column="24" lean-forward="false" selection-start-line="526" selection-start-column="24" selection-end-line="526" selection-end-column="24" />
-              <folding>
-                <element signature="e#24#153#0" expanded="false" />
-                <element signature="e#183#331#0" expanded="false" />
-                <element signature="e#362#481#0" expanded="false" />
-                <element signature="e#513#605#0" expanded="false" />
-                <element signature="e#635#729#0" expanded="false" />
-                <element signature="e#760#852#0" expanded="false" />
-                <element signature="e#1966#2043#0" expanded="false" />
-                <element signature="e#2432#2469#0" expanded="false" />
-                <element signature="e#2489#2676#0" expanded="false" />
-                <element signature="e#2702#2740#0" expanded="false" />
-                <element signature="e#2767#2837#0" expanded="false" />
-                <element signature="e#2862#2998#0" expanded="false" />
-                <element signature="e#3034#3094#0" expanded="false" />
-                <element signature="e#3114#3248#0" expanded="false" />
-                <element signature="e#3267#3369#0" expanded="false" />
-                <element signature="e#3387#3586#0" expanded="false" />
-                <element signature="e#3603#3844#0" expanded="false" />
-                <element signature="e#3863#4061#0" expanded="false" />
-                <element signature="e#4082#4290#0" expanded="false" />
-                <element signature="e#4310#4556#0" expanded="false" />
-                <element signature="e#4578#4785#0" expanded="false" />
-                <element signature="e#4806#4835#0" expanded="false" />
-                <element signature="e#4859#4914#0" expanded="false" />
-                <element signature="e#4941#5014#0" expanded="false" />
-                <element signature="e#6304#6374#0" expanded="false" />
-                <element signature="e#6398#6532#0" expanded="false" />
-                <element signature="e#6565#6655#0" expanded="false" />
-                <element signature="e#6688#6778#0" expanded="false" />
-              </folding>
+            <state relative-caret-position="244">
+              <caret line="504" column="13" lean-forward="false" selection-start-line="504" selection-start-column="13" selection-end-line="504" selection-end-column="13" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -60,13 +31,9 @@
       <file leaf-file-name="小米结构.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/小米结构.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="359">
-              <caret line="324" column="43" lean-forward="false" selection-start-line="324" selection-start-column="43" selection-end-line="324" selection-end-column="43" />
-              <folding>
-                <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#style#0;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#li#1;n#ul#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-              </folding>
+            <state relative-caret-position="-2415">
+              <caret line="179" column="17" lean-forward="true" selection-start-line="179" selection-start-column="17" selection-end-line="179" selection-end-column="17" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -91,6 +58,11 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>img</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -111,6 +83,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="110" />
     <option name="y" value="-8" />
@@ -133,6 +106,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -145,7 +119,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -184,17 +157,24 @@
       <workItem from="1516321859596" duration="17039000" />
       <workItem from="1516351218446" duration="599000" />
       <workItem from="1516355733531" duration="8077000" />
+      <workItem from="1516424820076" duration="117000" />
+      <workItem from="1516424954626" duration="18000" />
+      <workItem from="1516424991153" duration="96000" />
+      <workItem from="1516425503265" duration="33000" />
+      <workItem from="1516425553815" duration="134000" />
+      <workItem from="1516433342974" duration="3739000" />
+      <workItem from="1516437189210" duration="2247000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57658000" />
+    <option name="totallyTimeSpent" value="64042000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25475842" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32861635" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -210,6 +190,7 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -228,48 +209,135 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#24#153#0" expanded="false" />
-            <element signature="e#183#331#0" expanded="false" />
-            <element signature="e#362#481#0" expanded="false" />
-            <element signature="e#513#605#0" expanded="false" />
-            <element signature="e#635#729#0" expanded="false" />
-            <element signature="e#760#852#0" expanded="false" />
-            <element signature="e#1966#2043#0" expanded="false" />
-            <element signature="e#2432#2469#0" expanded="false" />
-            <element signature="e#2489#2676#0" expanded="false" />
-            <element signature="e#2702#2740#0" expanded="false" />
-            <element signature="e#2767#2837#0" expanded="false" />
-            <element signature="e#2862#2998#0" expanded="false" />
-            <element signature="e#3034#3094#0" expanded="false" />
-            <element signature="e#3114#3248#0" expanded="false" />
-            <element signature="e#3267#3369#0" expanded="false" />
-            <element signature="e#3387#3586#0" expanded="false" />
-            <element signature="e#3603#3844#0" expanded="false" />
-            <element signature="e#3863#4061#0" expanded="false" />
-            <element signature="e#4082#4290#0" expanded="false" />
-            <element signature="e#4310#4556#0" expanded="false" />
-            <element signature="e#4578#4785#0" expanded="false" />
-            <element signature="e#4806#4835#0" expanded="false" />
-            <element signature="e#4859#4914#0" expanded="false" />
-            <element signature="e#4941#5014#0" expanded="false" />
-            <element signature="e#6304#6374#0" expanded="false" />
-            <element signature="e#6398#6532#0" expanded="false" />
-            <element signature="e#6565#6655#0" expanded="false" />
-            <element signature="e#6688#6778#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/小米结构.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="817">
-          <caret line="43" column="26" lean-forward="false" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
-          <folding>
-            <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#li#1;n#ul#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
+        <state relative-caret-position="1140">
+          <caret line="60" column="20" lean-forward="true" selection-start-line="60" selection-start-column="20" selection-end-line="60" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/伪类清除浮动.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="10" lean-forward="false" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mistyle.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7353">
+          <caret line="526" column="24" lean-forward="false" selection-start-line="526" selection-start-column="24" selection-end-line="526" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/小米结构.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5624">
+          <caret line="296" column="20" lean-forward="true" selection-start-line="296" selection-start-column="20" selection-end-line="296" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/伪类清除浮动.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="10" lean-forward="false" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mistyle.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7353">
+          <caret line="526" column="24" lean-forward="false" selection-start-line="526" selection-start-column="24" selection-end-line="526" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/伪类清除浮动.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="10" lean-forward="false" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/小米结构.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5529">
+          <caret line="301" column="14" lean-forward="true" selection-start-line="301" selection-start-column="14" selection-end-line="301" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mistyle.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7353">
+          <caret line="526" column="24" lean-forward="false" selection-start-line="526" selection-start-column="24" selection-end-line="526" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/小米结构.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5529">
+          <caret line="291" column="12" lean-forward="false" selection-start-line="291" selection-start-column="12" selection-end-line="291" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/伪类清除浮动.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="10" lean-forward="false" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mistyle.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9994">
+          <caret line="526" column="24" lean-forward="false" selection-start-line="526" selection-start-column="24" selection-end-line="526" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/伪类清除浮动.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="10" lean-forward="false" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/小米结构.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5339">
+          <caret line="291" column="12" lean-forward="false" selection-start-line="291" selection-start-column="12" selection-end-line="291" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mistyle.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/小米结构.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5529">
+          <caret line="291" column="12" lean-forward="false" selection-start-line="291" selection-start-column="12" selection-end-line="291" selection-end-column="12" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -285,36 +353,31 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#24#153#0" expanded="false" />
-            <element signature="e#183#331#0" expanded="false" />
-            <element signature="e#362#481#0" expanded="false" />
-            <element signature="e#513#605#0" expanded="false" />
-            <element signature="e#635#729#0" expanded="false" />
-            <element signature="e#760#852#0" expanded="false" />
-            <element signature="e#1966#2043#0" expanded="false" />
-            <element signature="e#2432#2469#0" expanded="false" />
-            <element signature="e#2489#2676#0" expanded="false" />
-            <element signature="e#2702#2740#0" expanded="false" />
-            <element signature="e#2767#2837#0" expanded="false" />
-            <element signature="e#2862#2998#0" expanded="false" />
-            <element signature="e#3034#3094#0" expanded="false" />
-            <element signature="e#3114#3248#0" expanded="false" />
-            <element signature="e#3267#3369#0" expanded="false" />
-            <element signature="e#3387#3586#0" expanded="false" />
-            <element signature="e#3603#3844#0" expanded="false" />
-            <element signature="e#3863#4061#0" expanded="false" />
-            <element signature="e#4082#4290#0" expanded="false" />
-            <element signature="e#4310#4556#0" expanded="false" />
-            <element signature="e#4578#4785#0" expanded="false" />
-            <element signature="e#4806#4835#0" expanded="false" />
-            <element signature="e#4859#4914#0" expanded="false" />
-            <element signature="e#4941#5014#0" expanded="false" />
-            <element signature="e#6304#6374#0" expanded="false" />
-            <element signature="e#6398#6532#0" expanded="false" />
-            <element signature="e#6565#6655#0" expanded="false" />
-            <element signature="e#6688#6778#0" expanded="false" />
-          </folding>
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/小米结构.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6156">
+          <caret line="324" column="43" lean-forward="false" selection-start-line="324" selection-start-column="43" selection-end-line="324" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/伪类清除浮动.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="10" lean-forward="false" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mistyle.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -322,11 +385,31 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="817">
           <caret line="43" column="26" lean-forward="false" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
-          <folding>
-            <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#li#1;n#ul#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/伪类清除浮动.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="10" lean-forward="false" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mistyle.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/小米结构.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="817">
+          <caret line="43" column="26" lean-forward="false" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -342,11 +425,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2242">
           <caret line="118" column="14" lean-forward="true" selection-start-line="118" selection-start-column="14" selection-end-line="118" selection-end-column="14" />
-          <folding>
-            <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#li#1;n#ul#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -354,36 +433,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4085">
           <caret line="215" column="27" lean-forward="true" selection-start-line="215" selection-start-column="27" selection-end-line="215" selection-end-column="27" />
-          <folding>
-            <element signature="e#24#153#0" expanded="false" />
-            <element signature="e#183#331#0" expanded="false" />
-            <element signature="e#362#481#0" expanded="false" />
-            <element signature="e#513#605#0" expanded="false" />
-            <element signature="e#635#729#0" expanded="false" />
-            <element signature="e#760#852#0" expanded="false" />
-            <element signature="e#1966#2043#0" expanded="false" />
-            <element signature="e#2432#2469#0" expanded="false" />
-            <element signature="e#2489#2676#0" expanded="false" />
-            <element signature="e#2702#2740#0" expanded="false" />
-            <element signature="e#2767#2837#0" expanded="false" />
-            <element signature="e#2862#2998#0" expanded="false" />
-            <element signature="e#3034#3094#0" expanded="false" />
-            <element signature="e#3114#3248#0" expanded="false" />
-            <element signature="e#3267#3369#0" expanded="false" />
-            <element signature="e#3387#3586#0" expanded="false" />
-            <element signature="e#3603#3844#0" expanded="false" />
-            <element signature="e#3863#4061#0" expanded="false" />
-            <element signature="e#4082#4290#0" expanded="false" />
-            <element signature="e#4310#4556#0" expanded="false" />
-            <element signature="e#4578#4785#0" expanded="false" />
-            <element signature="e#4806#4835#0" expanded="false" />
-            <element signature="e#4859#4914#0" expanded="false" />
-            <element signature="e#4941#5014#0" expanded="false" />
-            <element signature="e#6304#6374#0" expanded="false" />
-            <element signature="e#6398#6532#0" expanded="false" />
-            <element signature="e#6565#6655#0" expanded="false" />
-            <element signature="e#6688#6778#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -411,50 +461,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/小米结构.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="324" column="43" lean-forward="false" selection-start-line="324" selection-start-column="43" selection-end-line="324" selection-end-column="43" />
-          <folding>
-            <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#li#1;n#ul#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
+        <state relative-caret-position="-2415">
+          <caret line="179" column="17" lean-forward="true" selection-start-line="179" selection-start-column="17" selection-end-line="179" selection-end-column="17" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mistyle.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="526" column="24" lean-forward="false" selection-start-line="526" selection-start-column="24" selection-end-line="526" selection-end-column="24" />
-          <folding>
-            <element signature="e#24#153#0" expanded="false" />
-            <element signature="e#183#331#0" expanded="false" />
-            <element signature="e#362#481#0" expanded="false" />
-            <element signature="e#513#605#0" expanded="false" />
-            <element signature="e#635#729#0" expanded="false" />
-            <element signature="e#760#852#0" expanded="false" />
-            <element signature="e#1966#2043#0" expanded="false" />
-            <element signature="e#2432#2469#0" expanded="false" />
-            <element signature="e#2489#2676#0" expanded="false" />
-            <element signature="e#2702#2740#0" expanded="false" />
-            <element signature="e#2767#2837#0" expanded="false" />
-            <element signature="e#2862#2998#0" expanded="false" />
-            <element signature="e#3034#3094#0" expanded="false" />
-            <element signature="e#3114#3248#0" expanded="false" />
-            <element signature="e#3267#3369#0" expanded="false" />
-            <element signature="e#3387#3586#0" expanded="false" />
-            <element signature="e#3603#3844#0" expanded="false" />
-            <element signature="e#3863#4061#0" expanded="false" />
-            <element signature="e#4082#4290#0" expanded="false" />
-            <element signature="e#4310#4556#0" expanded="false" />
-            <element signature="e#4578#4785#0" expanded="false" />
-            <element signature="e#4806#4835#0" expanded="false" />
-            <element signature="e#4859#4914#0" expanded="false" />
-            <element signature="e#4941#5014#0" expanded="false" />
-            <element signature="e#6304#6374#0" expanded="false" />
-            <element signature="e#6398#6532#0" expanded="false" />
-            <element signature="e#6565#6655#0" expanded="false" />
-            <element signature="e#6688#6778#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="244">
+          <caret line="504" column="13" lean-forward="false" selection-start-line="504" selection-start-column="13" selection-end-line="504" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>

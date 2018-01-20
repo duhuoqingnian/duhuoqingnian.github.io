@@ -1,9 +1,13 @@
 /*头部开始*/
+.top-header{
+    width: auto;
+    background:#333333;
 
+}
     .container{
-            width: 1256px;
+            width: 1226px;
+            margin: 0 auto;
              padding: 0 60px;
-             background:#333333;
              overflow: hidden;
      }
     .container .left p a,span{
@@ -27,7 +31,8 @@
 /*头部结束*/
 /*导航开始*/
   .homepage{
-      margin: auto 20px;
+      margin: 20px auto;
+      width: 1226px;
 
   }
     .icon{
@@ -50,10 +55,10 @@
     }
      .search .search-input{
          margin-top: 30px;
-         margin-left: 50px;
+         margin-left: 20px;
          padding: 0 10px;
          box-sizing: border-box;
-         width: 250px;
+         width: 200px;
          height: 50px;
          float: left;
          border: 0.5px solid  #f1f1f1;
@@ -76,6 +81,10 @@
 
 /*导航结束*/
 /*购物栏开始*/
+   .shop-out-box{
+       width: 1226px;
+       margin: 0 auto;
+   }
     .banner{
         position: relative;width:1246px;height: 460px;margin: 0 auto;
     }
@@ -128,9 +137,13 @@
     }
 /*购物栏结束*/
 /*主打产品开始*/
+    .star-out-box{
+        width: 1226px;
+        margin:0px auto;
+    }
     .home-hero{
         margin-top:20px ;
-        margin-left: 52px;
+        margin-left:0px;
     }
     .home-hero-left{
         float: left;
@@ -205,17 +218,14 @@
         float: right;
     }
     .home-hero-right li{
-        float: left;
-        margin-right:15px;
+        float: right;
+        margin-left: 13px;
     }
     .home-hero-right a img{
-        float: left;
         width: 316px;
         height: 175px;
     }
-    .home-hero-right .last{
-        margin-right:72px ;
-    }
+
 /*主打产品结束*/
 /*明星单品开始*/
    .start-single{
@@ -284,7 +294,7 @@
       font-size: 15px;
   }
   .start-single-main li{
-      float: left;
+      float: right;
       margin-left: 14px;
       padding-top: 39px;
       text-align: center;
@@ -361,10 +371,11 @@
 .smart-item:last-child {
     margin-right: 0;
 }
-
+/*米兔开始*/
 .smart-item img {
     width: 150px;
     height: 150px;
+    margin: 0px auto;
 }
 
 .smart-item h3 {
@@ -491,7 +502,7 @@
         width: 1226px;
         margin: 20px auto;
     }
-    img{
+   .copyright img{
         float: left;
     }
  .container-bottom{
